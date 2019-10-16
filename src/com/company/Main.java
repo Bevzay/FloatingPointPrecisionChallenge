@@ -6,7 +6,7 @@ public class Main {
 
         double pound = 100;
         double kilo = 0.45359237;
-        System.out.println("100 pounds is " + (kilo * pound) + " kilo");
+        System.out.println(pound + " pounds is " + (kilo * pound) + " kilo");
 
     }
 }
